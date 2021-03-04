@@ -14,6 +14,7 @@ Given the following sets of names, you should output the unisex names that appea
    - Kisha
    - Faye 
 
+**Sample output**
 ```
 Unisex names: Sam
 ```
